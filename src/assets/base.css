@@ -19,6 +19,19 @@
   --vt-c-text-light-2: rgba(60, 60, 60, 0.66);
   --vt-c-text-dark-1: var(--vt-c-white);
   --vt-c-text-dark-2: rgba(235, 235, 235, 0.64);
+
+  --bg-main: rgb(26, 29, 29);
+  --bg-main-peak: rgb(45, 51, 51);
+  --current-selection: rgb(45, 51, 51);
+  --current-selection-peak: rgb(58, 65, 65);
+  --blk-shadow: rgba(0, 0, 0, 0.75);
+  --wht-shadow: rgba(255, 255, 255, 0.75);
+  --player-name-bg: rgba(0, 0, 0, 0.5);
+  --white-text: rgb(230, 230, 230);
+  --color-radiant: rgb(32, 64, 32);
+  --color-dire: rgb(64, 32, 32);
+  --screen-width: 1920px;
+  --screen-height: 1080px;
 }
 
 /* semantic color variables for this project */
